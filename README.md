@@ -1,6 +1,8 @@
 # React Routing & Firebase Authentication
 
 Course: Tools & Technologies for Internet Programming
+Student Name: Fahamida Fatima Raisa
+ID: C243424
 
 A simple React app with React Router, Firebase Email/Password Authentication and Protected Routes.
 
